@@ -1,0 +1,19 @@
+1. perubahan desain [FIX]
+- template side bar kiri warna = abu-abu kebiruan kayak contoh 				 dikirim
+
+2. menu user [FIX]
+- biodata di tambah lagi 2 = kesehatan kasih role = SEHAT (tidak buta warna)
+						  = TIDAK SEHAT (buta warna)
+                           = Penampilan kasih role = Tidak berkacamata dan Tidak bertato	
+						   = Berkacamata
+						   = Bertato	
+- pengumuman = ada kata-kata = selemat ada lulus seleksi
+			       harap membawa lampiran berkas pada tanggal sesuaikan dari 
+			       MENU PENGUMUMAN ADMIN 
+				
+				berkas yang harus dilampirkan:
+				  - FOTO 4X6			- FC SKHU/SKL
+				  - FOTO COPY KTP		- FC KK/AKTE
+				  - FC SURAT KET.SEHAT		- SURAT LAMARAN
+				  - FC IJAZAH			- SKCK
+ 				  - KARTU KUNING/AK

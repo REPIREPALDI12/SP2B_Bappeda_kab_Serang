@@ -1,0 +1,24 @@
+1. DATA KARYAWAN di tambahkan bisa download data karyawan + BENTUK FILE exel [FIX]
+
+
+2. PENYELEKSIAN 
+- penembahan BISA DOWNLOAD hasil seleksi BENTUK FILE EXEL
+  Hasil seleksi mnyeluruh, dan field lengkap detail hasil seleksi dari pendidikan smpai nilai total
+
+[FIX] - di halaman detail data penyeleksian multi factor di tambahkan tombol EDIT untuk           merubah penilaian. sapa tau ada salah input nilai 
+
+[FIX] - detail nilai seleksi karyawan di buatkan tabel database.nya
+
+[FIX] - di halaman FORM INPUT PENILAIAN ditambah kan field setelah kriteria yaitu :
+	1. field Analisi yang brarti di ambil dari menu data karyawan misal pendidikan dia 	   	   waktu input biodata SMA muncul di analisis SMA SEPEERTI DATA KRITERIA di ambil dari 	   menu data kriteria.
+	2. Field Sub_Kriteria setelah field Analisis yang berisi role pilihan yang diambil 		   dari MENU DATA SUB_KRITERIA
+
+[FIX] CATATAN : ada VALIDASI saat admin mau input nilai , jika belum memilih data Sub_kriteria ada keterangan validasiseperti belum input nilai range
+
+
+
+
+
+
+
+
